@@ -29,9 +29,24 @@ State:
   m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
+  - {fileID: 7400000, guid: 52bc19342f6c3304bba3dfacb08f1455, type: 2}
+  m_ParentStateMachine: {fileID: 110700000}
+  m_Position: {x: 200, y: 0, z: 0}
+  m_IKOnFeet: 0
+  m_Mirror: 0
+  m_Tag: 
+--- !u!1102 &110271381
+State:
+  m_ObjectHideFlags: 3
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: cctvSweep 0
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Motions:
   - {fileID: 7400000, guid: 7deb71cfb43d8aa4e8aef48754e09e7f, type: 2}
   m_ParentStateMachine: {fileID: 110700000}
-  m_Position: {x: 264, y: 156, z: 0}
+  m_Position: {x: 299, y: 221, z: 0}
   m_IKOnFeet: 0
   m_Mirror: 0
   m_Tag: 
